@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+data/app.db
+*.session
+*.session-journal
+data/sessions/*
+data/generated_reports/*
+data/logos/*
+!data/logos/.gitkeep

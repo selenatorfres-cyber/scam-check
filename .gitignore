@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+*.session
+*.session-journal
+data/sessions/*
+!data/sessions/__init__.py
+data/*.db
+data/*.sqlite*
+.venv/
+venv/

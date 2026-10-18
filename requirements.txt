@@ -1,0 +1,12 @@
+aiogram>=3.22,<4
+Telethon>=1.42,<2
+SQLAlchemy>=2.0,<3
+aiosqlite>=0.21,<1
+Pillow>=11,<13
+python-dotenv>=1.1,<2
+alembic>=1.16,<2
+pydantic-settings>=2.10,<3
+
+greenlet>=3.0,<4
+
+qrcode[pil]>=8.0,<9
